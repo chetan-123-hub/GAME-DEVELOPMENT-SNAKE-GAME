@@ -38,6 +38,7 @@ A classic Snake game built using **C++** and the **SFML 3.0** graphics library. 
 
 ## 🖥️ Screenshots
 
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/412596b0-e481-410a-bee7-14e46b91a5c0" />
 
 
 
